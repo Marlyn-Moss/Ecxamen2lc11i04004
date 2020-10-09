@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Ecxamen2lc11i04004</string>
+    <string name="app_name2">Parcial2</string>
+
+    <string name="button_juego">Agregar Contacto</string>
+    <string name="button_jugar">Listar Contactos</string>
+    <string name="button_puntajes">Listar Contactos</string>
+    <string name="button_configuracion">Listar Contactos Ordenados</string>
+
+    <string name="textoNick">NICK</string>
+    <string name="textoNivelJuego">NIVEL</string>
+    <string name="button_reiniciar">Reiniciar Jugada</string>
+    <string name="texto_titulo_jugada">Intentos 0</string>
+    <string name="texto_hint_numero">Escribe un número</string>
+    <string name="texto_mensajes">¿Iniciar Partida?</string>
+    <string name="button_terminar">Terminar de Jugar</string>
+    <string name="texto_item_nick">Nick</string>
+    <string name="texto_item_intentos">000</string>
+    <string name="descripcion_contenido">Aqui hay una imagen</string>
+    <string name="texto_config_titulo">Opciones de configuración</string>
+    <string name="hint_congif_nick">Escriba su NICK</string>
+    <string name="texto_config_nivel">Nivel de dificultad:</string>
+    <string name="texto_config_nivel_facil">Facil</string>
+    <string name="texto_config_nivel_medio">Medio</string>
+    <string name="texto_config_nivel_dificil">Dificil</string>
+    <string name="button_guardar">Guardar Datos</string>
+    <string name="titulo_agregar_contacto">Escriba los datos que se le piden</string>
+    <string name="hint_nombre">Nombre del contacto</string>
+    <string name="hint_apellido">Apellidos del contacto</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="texto_item_fullnombre">Full nombre</string>
+    <string name="texto_item_telefono">9999-9999</string>
+    <string name="texto_favorito">Es favorito</string>
+    <string name="texto_conteo_contactos">Total contactos: 0</string>
+    <string name="texto_favoritos">Favoritos: 0</string>
+    <string name="texto_nofavoritos">No favoritos: 0</string>
+
+</resources>

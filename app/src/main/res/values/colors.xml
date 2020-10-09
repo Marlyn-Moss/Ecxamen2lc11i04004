@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B31915</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorBackgroundBlanco">#FFFFFF</color>
+    <color name="colorBlanco">#FFFFFF</color>
+
+    <color name="colorDisabled">#E2E0E0</color>
+    <color name="colorDivider">#CAC8C8</color>
+    <color name="colorButtonBackground">#D33E3A</color>
+    <color name="colorButtonBordeLogin">#D33E3A</color>
+    <color name="colorEdittextBordeLogin">#DBDBDB</color>
+
+    <color name="colorDrawableVector">#DBDBDB</color>
+    <color name="colorTextoNegro">#000000</color>
+    <color name="colorTextoGris">#BBBBBB</color>
+</resources>
